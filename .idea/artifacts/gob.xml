@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gob">
+    <output-path>$PROJECT_DIR$/out/artifacts/gob</output-path>
+    <root id="archive" name="gob.jar">
+      <element id="module-output" name="Gobsidian Tools for CraftBukkit" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/com" />
+    </root>
+  </artifact>
+</component>

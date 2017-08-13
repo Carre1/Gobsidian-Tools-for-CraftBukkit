@@ -1,4 +1,4 @@
-package com.carre1.firstbkplugin;
+package com.gobsidian.toolsForBukkit;
 
 /**
  * Created by carre on 2017/8/13.
